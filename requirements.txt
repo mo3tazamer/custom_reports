@@ -1,1 +1,1 @@
-# No external dependencies - uses Frappe framework
+# No external dependencies

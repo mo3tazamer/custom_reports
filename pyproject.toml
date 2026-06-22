@@ -1,0 +1,12 @@
+[project]
+name = "custom_reports"
+version = "1.0.0"
+description = "Modern themed reports for ERPNext with 22+ reports"
+authors = [{name = "mo3tazamer"}]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

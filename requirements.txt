@@ -1,0 +1,2 @@
+# No external dependencies - uses Frappe framework built-in
+# This file is required by setup.py / pyproject.toml

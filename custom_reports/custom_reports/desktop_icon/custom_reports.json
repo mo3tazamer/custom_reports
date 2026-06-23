@@ -1,9 +1,0 @@
-{
-  "doctype": "Desktop Icon",
-  "app": "custom_reports",
-  "label": "التقارير المخصصة",
-  "icon": "octicon octicon-file-directory",
-  "color": "#7C5CC4",
-  "module_name": "Custom Reports",
-  "link": "List/Report"
-}

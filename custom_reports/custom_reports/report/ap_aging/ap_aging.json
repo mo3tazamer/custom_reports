@@ -1,0 +1,44 @@
+{
+    "add_total_row": 0,
+    "columns": [],
+    "creation": "2026-01-01 00:00:00.000000",
+    "disable_prepared_report": 0,
+    "disabled": 0,
+    "docstatus": 0,
+    "doctype": "Report",
+    "filters": [
+        {
+            "fieldname": "supplier",
+            "fieldtype": "Link",
+            "label": "المورد",
+            "options": "Supplier",
+            "width": "150px"
+        }
+    ],
+    "idx": 0,
+    "is_standard": "Yes",
+    "json": "{}",
+    "letter_head": "",
+    "modified": "2026-01-01 00:00:00.000000",
+    "modified_by": "Administrator",
+    "module": "Custom Reports",
+    "name": "AP Aging",
+    "owner": "Administrator",
+    "prepared_report": 0,
+    "query": "",
+    "ref_doctype": "Purchase Invoice",
+    "report_name": "AP Aging",
+    "report_type": "Script Report",
+    "roles": [
+        {
+            "role": "Accounts User"
+        },
+        {
+            "role": "Accounts Manager"
+        },
+        {
+            "role": "System Manager"
+        }
+    ],
+    "timeout": 0
+}

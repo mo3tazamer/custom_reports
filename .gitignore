@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ERPNext
+*.pyc
+*.pyo
+*.swp
+*.swo
+.DS_Store
+*.eggs/
+*.egg-info/
+dist/
+build/

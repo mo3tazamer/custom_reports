@@ -1,0 +1,9 @@
+{
+    "module_name": "Custom Reports",
+    "app_name": "custom_reports",
+    "category": "Modules",
+    "color": "#7C5CC4",
+    "icon": "octicon octicon-file-directory",
+    "type": "module",
+    "label": "Custom Reports"
+}

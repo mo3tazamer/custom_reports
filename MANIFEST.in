@@ -1,0 +1,5 @@
+recursive-include custom_reports *.css
+recursive-include custom_reports *.js
+recursive-include custom_reports *.json
+recursive-include custom_reports *.py
+recursive-include custom_reports *.md
